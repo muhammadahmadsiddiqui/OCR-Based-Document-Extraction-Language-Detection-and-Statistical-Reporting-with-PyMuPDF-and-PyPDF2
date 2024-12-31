@@ -1,0 +1,1 @@
+# OCR-Based-Document-Extraction-Language-Detection-and-Statistical-Reporting-with-PyMuPDF-and-PyPDF2
